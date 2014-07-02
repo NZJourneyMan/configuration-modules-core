@@ -6,13 +6,13 @@
   <artifactId>accounts</artifactId>
 
   <packaging>pom</packaging>
-  <version>14.2.2-SNAPSHOT</version>
+  <version>14.6.0-rc3-SNAPSHOT</version>
   <name>Component handling local accounts.</name>
 
   <parent>
     <groupId>org.quattor.maven</groupId>
     <artifactId>build-profile</artifactId>
-    <version>1.32</version>
+    <version>1.35</version>
   </parent>
 
   <licenses>
